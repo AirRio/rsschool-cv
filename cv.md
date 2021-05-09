@@ -19,7 +19,7 @@ learning new things from everywhere etc.
   + 2018 - 2022 Gomel State Technical University for a specialty Computer science and programming technologies.
   
  #### Self-Education
-  + 202 RS School: Android Developement
+  + 2021 RS School: Android Developement
  
  ## Code examples
  Some examples you can see on my github [teamabsolute](https://github.com/AirRio)
